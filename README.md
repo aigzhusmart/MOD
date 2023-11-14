@@ -1,4 +1,4 @@
-# MOD: General Self-Supervised Training Framework to Accelerate Hybrid Transformer for 3D Medical Image Segmentation
+# Online Self-distillation and Self-modeling for 3D Brain Tumor Segmentation
 
 > More details of this project will be released soon.
 
